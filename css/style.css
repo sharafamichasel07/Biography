@@ -1,0 +1,110 @@
+*{
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+}
+.hero-item{
+    text-align: center;
+    color: #f7d7cf;
+}
+h2{
+    font-size: 3rem;
+    text-transform: lowercase;
+    padding: 20px;
+}
+.user-image {
+    height: 390px;
+    width: 400px;
+    border-radius: 50%;
+    margin-bottom: 20px
+}
+.article{
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.article-text{
+    color: white;
+}
+.social-icons{
+    padding: 10px;
+}
+.social-icons img {
+    padding-right: 20px;
+}
+.collaborate-section{
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.collaborate 
+{
+    margin-right: 20px;
+}
+.collaborate-section2{
+    margin-right: 10px;
+}
+.collaborate-3 {
+    font-size: 50px;
+    padding: px;
+}
+.collaborate-4 {
+    font-size: 25px;
+    padding: 15px;
+}
+.collaborate-p{
+    font-size: 20px;
+}
+.number {
+    font-size: 50px;
+    display: flex;
+}
+.line {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+.arrow {
+    display: flex;
+}
+.view {
+    display: flex;
+}
+.pex1 {
+    display: flex;
+    justify-content: space-between;
+}
+.pexels1 {
+    height: 290px;
+    width: 400px;
+    border-radius: 20%;
+    margin-bottom: 20px;
+    padding: 20px;
+    display: flex;
+}
+.pexels2 {
+    height: 290px;
+    width: 400px;
+    border-radius: 20%;
+    margin-bottom: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.pexels3 {
+    height: 290px;
+    width: 400px;
+    border-radius: 20%;
+    margin-bottom: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: left;
+}
